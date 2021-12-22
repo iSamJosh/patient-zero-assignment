@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "title": "ABBAYE DE BELLOC",
+        "price": 109.95,
+        "amount": 2
+    },
+    {
+        "id": 8,
+        "title": "SAINT ALBRAY",
+        "price": 860.62,
+        "amount": 1
+    }
+]
